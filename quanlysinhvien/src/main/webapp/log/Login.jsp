@@ -77,7 +77,7 @@
     </tr>
     <tr>
     	<td colspan="2">
-    		<hr style="width: 700px">
+    		<hr style="width: 400px">
     		<center>
     			<a class="nav-link aList" href="${pageContext.request.contextPath}/SignupServlet">Đăng ký tài khoản</a><br>
     		</center>
