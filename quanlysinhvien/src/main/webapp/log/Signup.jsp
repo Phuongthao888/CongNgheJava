@@ -78,7 +78,7 @@
     </tr>
     <tr>
     	<td colspan="2">
-    		<hr style="width: 700px">
+    		<hr style="width: 400px">
     		<center>
     			<a class="nav-link aList" href="${pageContext.request.contextPath}/LoginServlet">Quay lại trang đăng nhập</a><br>
     		</center>
