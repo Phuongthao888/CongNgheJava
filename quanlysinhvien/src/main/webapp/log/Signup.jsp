@@ -16,7 +16,6 @@
 	  height: 100vh;
 	  font-family: Arial, sans-serif;
 	  background-color: #f0f0f0;
-	  background: linear-gradient(45deg, rgba(255, 126, 95, 0.8), #99CCFF);
 	}
 	
 	form {
@@ -32,7 +31,7 @@
 	}
 	
 	table {
-	  width: 700px;
+	  width: 400px;
 	}
 	
 	td {
