@@ -30,7 +30,7 @@
 	}
 	
 	table {
-	  width: 700px;
+	  width: 400px;
 	}
 	
 	td {
